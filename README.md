@@ -1,4 +1,4 @@
-# World Cloud 词云生成系统
+# Word Cloud 词云生成系统
 
 运行 `Setup.bat` 将自动检测并安装所需的依赖项，并生成 `Cloud.exe` 可执行文件。如果您不希望安装依赖项，或者当前正在进行重要任务，请谨慎执行 `Setup.bat`。如果您不希望安装依赖项但仍希望使用词云生成系统，可以直接使用我们提供的 `Cloud.exe` 可执行文件。
 
@@ -16,5 +16,5 @@
 
 **版权声明**
 
-作者：He Shuanglong
-电子邮件：heshuanglong@e.gzhu.edu.cn
+author：He Shuanglong
+email：heshuanglong@e.gzhu.edu.cn
